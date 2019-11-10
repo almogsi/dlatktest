@@ -1,5 +1,4 @@
-# dlatktest
-DLATK test
+# DLATK test
 Use `predict_age()` to predict age
 
 Adapted from:
