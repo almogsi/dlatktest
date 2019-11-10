@@ -1,0 +1,10 @@
+Package: dlatktest
+Type: Package
+Title: Predicts Age built on Sap et al. (2014)
+Version: 0.1.0
+Author: Almog Simchon
+Maintainer: Almog Simchon <almog.si@gmail.com>
+Description: Predicts age based on text
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
