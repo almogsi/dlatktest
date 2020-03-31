@@ -1,4 +1,11 @@
 # DLATK test
+
+## Download and install
+`remotes::install_github("almogsi/dlatktest")`
+
+
+## Examples
+
 Use `predict_age()` to predict age
 
 Use `predict_open()` to predict BIG-5 Openness
