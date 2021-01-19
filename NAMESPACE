@@ -1,2 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-import(quanteda, scales)
+import(quanteda, stringr, magrittr)
